@@ -1,5 +1,9 @@
 # README do Projeto Creeper 🌟
 
+Este repositório contém um projeto prático desenvolvido no contexto do curso de Lua oferecido pela Digital Innovation One (DIO). O objetivo deste projeto é explorar e aplicar os conceitos fundamentais da linguagem Lua, criando um perfil de destaque que pode ser um excelente diferencial em entrevistas técnicas.
+- Data de inicio: 06/11/2024
+- Instrutor: Rafael Skoberg
+
 ## Descrição do Projeto
 
 Bem-vindo ao repositório do projeto "Creeper", um programinha divertido em Lua que dá vida a um dos personagens mais icônicos do Minecraft! 🧙‍♂️💥 Aqui, exploramos os conceitos fundamentais da linguagem Lua enquanto nos divertimos criando um cartão de identidade para o Creeper.
@@ -9,7 +13,7 @@ Neste projeto, você encontrará:
 - Interatividade, permitindo que o usuário veja a história do Creeper e interaja com o programa.
 - Um bom uso de boas práticas de programação, como modularização e clareza no código.
 
-O objetivo? Mostrar suas habilidades em programação e, quem sabe, conquistar seu lugar no coração dos recrutadores! 😎
+O objetivo? Mostrar minhas habilidades em programação e, quem sabe, conquistar meu lugar no coração dos recrutadores! 😎
 
 ## Estrutura do Repositório
 
@@ -17,7 +21,6 @@ O repositório contém:
 
 - **Código-fonte**: O arquivo `desafio.lua`, que é a estrela do show!
 - **Documentação**: Comentários que ajudam a entender o que está acontecendo.
-- **Links e Recursos**: Materiais de apoio e templates, caso você queira se aprofundar ainda mais.
 
 ## Mudanças e Novas Implementações
 
